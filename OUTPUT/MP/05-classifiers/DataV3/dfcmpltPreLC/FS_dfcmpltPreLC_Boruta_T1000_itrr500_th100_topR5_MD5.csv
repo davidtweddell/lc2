@@ -1,0 +1,20 @@
+1,True,age
+1,True,VAX-vaccinated
+1,True,CD-mode_of_diag
+1,True,SYMPT-chest_pain___1
+1,True,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+1,True,SYMPT-fatigue___1
+1,True,SYMPT-loss_of_taste_lost_of_smel___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+4,False,SYMPT-weight_loss___1
+2,False,HHX-Obesity
+3,False,HHX-Psychiatric disease
+4,False,HHX-OTHER-Sleep-disorder
+1,True,CD-adjunctive___1
+1,True,CD-covid_test_result_1
+1,True,CD-medication_received___5
+1,True,CD-severity_level___0
+1,True,CD-severity_level___1

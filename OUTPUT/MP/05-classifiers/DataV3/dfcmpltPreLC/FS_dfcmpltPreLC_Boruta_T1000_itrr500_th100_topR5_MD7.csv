@@ -1,0 +1,12 @@
+1,True,age
+1,True,VAX-vaccinated
+1,True,CD-mode_of_diag
+1,True,SYMPT-dizziness___1
+5,False,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+4,False,SYMPT-sore_throat___1
+2,False,CD-adjunctive___1
+2,False,CD-covid_test_result_1
+4,False,CD-medication_received___5
+1,True,CD-severity_level___0
+1,True,CD-severity_level___1
