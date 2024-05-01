@@ -22,11 +22,13 @@ class MPutils:
         lCols = firstCols+ lCols
         return df[lCols]
     
-    def getTrueFeatList(fileName):
+    def getTrueFeatList(fileName, asDF= False):
         dfTmp = pd.read_csv(
         fileName,
         header=None,
     )
         dfTmp.columns = ["Rank", "TrueFeat", "Feat"]
         dfTmp = dfTmp[dfTmp["TrueFeat"] == True]
+        if asDF:
+            return dfTmp
         return dfTmp["Feat"].to_list()
