@@ -1,0 +1,11 @@
+2,False,age
+1,True,CD-mode_of_diag
+1,True,SYMPT-cough___1
+1,True,SYMPT-fatigue___1
+1,True,SYMPT-fever_38_0oc___1
+5,False,SYMPT-headache___1
+1,True,SYMPT-loss_of_taste_lost_of_smel___1
+3,False,SYMPT-muscle_aches_myalgia___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+4,False,HHX-Psychiatric disease
+1,True,CD-type_of_care___2

@@ -1,0 +1,31 @@
+1,True,age
+1,True,VAX-vaccinated
+1,True,CD-hospitalized
+1,True,CD-mode_of_diag
+1,True,CD-required_oxygen
+1,True,MED-Respiratory-tract-agents
+1,True,SYMPT-chest_pain___1
+3,False,SYMPT-confusion_altered_mental_s___1
+1,True,SYMPT-diarrhea___1
+1,True,SYMPT-extremity_weakness_or_numb___1
+1,True,SYMPT-joint_pain_arthralgia___1
+1,True,SYMPT-loss_of_taste_lost_of_smel___1
+1,True,SYMPT-nausea_vomiting___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+1,True,HHX-Arterial Hypertension
+2,False,HHX-Asthma
+4,False,HHX-Chronic hematologic disease
+1,True,HHX-Diabetes
+1,True,HHX-Obesity
+1,True,HHX-Psychiatric disease
+1,True,HHX-OTHER-Sleep-disorder
+1,True,CD-covid_test_result_1
+1,True,CD-difficulty_with_concentrat___4
+1,True,CD-memory_problems___4
+1,True,CD-type_of_care___2
+1,True,CD-severity_level___0
+1,True,CD-severity_level___1
+1,True,CD-severity_level___3
+1,True,SUBST-3
