@@ -1,0 +1,17 @@
+1,True,age
+1,True,VAX-vaccinated
+3,False,CD-required_oxygen
+1,True,SYMPT-chest_pain___1
+4,False,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+2,False,SYMPT-fatigue___1
+5,False,SYMPT-headache___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+1,True,SYMPT-weight_loss___1
+1,True,CD-adjunctive___1
+1,True,CD-covid_test_result_1
+1,True,CD-medication_received___5
+1,True,CD-severity_level___0
+1,True,CD-severity_level___1

@@ -1,0 +1,19 @@
+2,False,age
+5,False,CD-hospitalized
+1,True,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+1,True,SYMPT-fatigue___1
+1,True,SYMPT-fever_38_0oc___1
+1,True,SYMPT-headache___1
+3,False,SYMPT-joint_pain_arthralgia___1
+1,True,SYMPT-loss_of_appetite___1
+1,True,SYMPT-loss_of_taste_lost_of_smel___1
+1,True,SYMPT-muscle_aches_myalgia___1
+4,False,SYMPT-night_sweats___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+5,False,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+1,True,HHX-Other
+1,True,HHX-Psychiatric disease
+1,True,CD-type_of_care___2
+1,True,SUBST-3

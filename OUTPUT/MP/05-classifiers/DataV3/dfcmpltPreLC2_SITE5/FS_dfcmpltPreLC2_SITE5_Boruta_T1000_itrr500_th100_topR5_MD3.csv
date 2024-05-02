@@ -1,0 +1,9 @@
+1,True,age
+4,False,CD-hospitalized
+1,True,CD-required_oxygen
+1,True,MED-Cardiovascular-agents
+1,True,SYMPT-fatigue___1
+5,False,CD-cardiovascular-other-4
+3,False,CD-covid_test_result_2
+2,False,CD-neurologic-other-4
+1,True,CD-respiratory-other-4
