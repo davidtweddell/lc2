@@ -1,0 +1,14 @@
+Rank,Feature,Importance
+1,age,0.6975
+2,SYMPT-shortness_of_breath_dyspne___1,0.1007
+3,CD-medication_received___5,0.0641
+4,SYMPT-chest_pain___1,0.0518
+5,VAX-vaccinated,0.0384
+6,SYMPT-dizziness___1,0.0269
+7,SYMPT-sore_throat___1,0.0207
+10,SYMPT-runny_nose_rhinorrhea___1,0.0
+10,SYMPT-weight_loss___1,0.0
+10,CD-adjunctive___1,0.0
+10,CD-covid_test_result_1,0.0
+10,CD-severity_level___0,0.0
+10,CD-severity_level___1,0.0

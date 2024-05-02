@@ -1,0 +1,11 @@
+Rank,Feature,Importance
+1,age,0.4854
+2,CD-type_of_care___2,0.1722
+3,CD-severity_level___1,0.0731
+4,SYMPT-shortness_of_breath_dyspne___1,0.0626
+5,SYMPT-loss_of_taste_lost_of_smel___1,0.0518
+6,SYMPT-chest_pain___1,0.0388
+7,CD-covid_test_result_1,0.0353
+8,CD-severity_level___0,0.0331
+9,HHX-Obesity,0.0278
+10,MED-Respiratory-tract-agents,0.0198

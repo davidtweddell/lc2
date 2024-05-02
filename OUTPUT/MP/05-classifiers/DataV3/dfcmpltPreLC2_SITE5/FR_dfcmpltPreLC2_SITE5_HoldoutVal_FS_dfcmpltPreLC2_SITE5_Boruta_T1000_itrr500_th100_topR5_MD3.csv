@@ -1,0 +1,6 @@
+Rank,Feature,Importance
+1,age,0.7658
+2,MED-Cardiovascular-agents,0.0682
+3,SYMPT-fatigue___1,0.0617
+4,CD-respiratory-other-4,0.053
+5,CD-required_oxygen,0.0513

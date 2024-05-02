@@ -1,0 +1,19 @@
+Rank,Feature,Importance
+1,CD-hospitalized,0.3616
+2,CD-adjunctive___1,0.2023
+3,CD-required_oxygen,0.1581
+4,CD-covid_test_result_1,0.0493
+5,SYMPT-cough___1,0.0446
+6,age,0.0359
+7,SYMPT-fever_38_0oc___1,0.0321
+8,HHX-Arterial Hypertension,0.0299
+9,HHX-Diabetes,0.025
+10,SYMPT-shortness_of_breath_dyspne___1,0.0179
+11,MED-Cardiovascular-agents,0.016
+12,SYMPT-muscle_aches_myalgia___1,0.0096
+13,SYMPT-dizziness___1,0.009
+14,SYMPT-runny_nose_rhinorrhea___1,0.0029
+15,SYMPT-weight_loss___1,0.0025
+16,HHX-Obesity,0.0017
+17,MED-Antivirals,0.0011
+18,SYMPT-headache___1,0.0005

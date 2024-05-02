@@ -1,0 +1,14 @@
+Rank,Feature,Importance
+1,CD-adjunctive___1,0.5065
+2,age,0.1447
+3,CD-covid_test_result_1,0.1385
+4,SYMPT-shortness_of_breath_dyspne___1,0.1078
+5,SYMPT-dizziness___1,0.043
+6,SYMPT-runny_nose_rhinorrhea___1,0.0409
+7,SYMPT-chest_pain___1,0.0082
+8,SYMPT-weight_loss___1,0.0058
+9,VAX-vaccinated,0.0045
+11,SYMPT-sore_throat___1,0.0
+11,CD-medication_received___5,0.0
+11,CD-severity_level___0,0.0
+11,CD-severity_level___1,0.0
