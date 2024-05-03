@@ -1,0 +1,8 @@
+Rank,Feature,Importance
+1,age,0.3424
+2,VAX-vaccinated,0.2445
+3,SYMPT-shortness_of_breath_dyspne___1,0.1187
+4,MED-Respiratory-tract-agents,0.0929
+5,SYMPT-headache___1,0.082
+6,SYMPT-muscle_aches_myalgia___1,0.0639
+7,SUBST-3,0.0555

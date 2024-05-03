@@ -1,0 +1,14 @@
+Rank,Feature,Importance
+1,CD-type_of_care___2,0.1956
+2,SYMPT-fever_38_0oc___1,0.1202
+3,SYMPT-dizziness___1,0.1063
+4,SYMPT-cough___1,0.0878
+5,SYMPT-headache___1,0.0824
+6,SYMPT-fatigue___1,0.0818
+7,SYMPT-muscle_aches_myalgia___1,0.0765
+8,HHX-Psychiatric disease,0.075
+9,SYMPT-sore_throat___1,0.0487
+10,SYMPT-runny_nose_rhinorrhea___1,0.0478
+11,SUBST-3,0.0407
+12,SYMPT-loss_of_taste_lost_of_smel___1,0.0308
+13,HHX-Other,0.0063

@@ -1,0 +1,27 @@
+Rank,Feature,Importance
+1,age,0.2214
+2,VAX-vaccinated,0.2162
+3,SYMPT-shortness_of_breath_dyspne___1,0.1075
+4,MED-Respiratory-tract-agents,0.0882
+5,SYMPT-headache___1,0.0748
+6,SYMPT-chest_pain___1,0.0535
+7,SYMPT-cough___1,0.0466
+8,SYMPT-sore_throat___1,0.0325
+9,SYMPT-runny_nose_rhinorrhea___1,0.0317
+10,SYMPT-fatigue___1,0.028
+11,SYMPT-dizziness___1,0.0237
+12,SYMPT-loss_of_taste_lost_of_smel___1,0.0203
+13,SYMPT-extremity_weakness_or_numb___1,0.0186
+14,SYMPT-weight_loss___1,0.0117
+15,MED-Cardiovascular-agents,0.008
+16,HHX-Psychiatric disease,0.0062
+17,HHX-Obesity,0.006
+18,CD-required_oxygen,0.0052
+22,HHX-OTHER-Sleep-disorder,0.0
+22,CD-adjunctive___1,0.0
+22,CD-medication_received___3,0.0
+22,CD-medication_received___4,0.0
+22,CD-medication_received___5,0.0
+22,CD-respiratory-other-4,0.0
+22,CD-severity_level___0,0.0
+22,CD-severity_level___1,0.0

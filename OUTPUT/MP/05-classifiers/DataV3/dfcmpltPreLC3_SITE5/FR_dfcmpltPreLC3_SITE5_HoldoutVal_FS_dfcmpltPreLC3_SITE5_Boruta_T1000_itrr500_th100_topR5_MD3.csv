@@ -1,0 +1,5 @@
+Rank,Feature,Importance
+1,age,0.825
+2,SYMPT-fatigue___1,0.0611
+3,CD-respiratory-other-4,0.0593
+4,CD-required_oxygen,0.0547

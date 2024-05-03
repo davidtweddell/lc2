@@ -1,0 +1,15 @@
+Rank,Feature,Importance
+1,age,0.4301
+2,CD-severity_level___3,0.0749
+3,SYMPT-shortness_of_breath_dyspne___1,0.0717
+4,SYMPT-loss_of_taste_lost_of_smel___1,0.0571
+5,SYMPT-nausea_vomiting___1,0.057
+6,SYMPT-joint_pain_arthralgia___1,0.0454
+7,SYMPT-diarrhea___1,0.044
+8,SYMPT-extremity_weakness_or_numb___1,0.0438
+9,CD-severity_level___1,0.0413
+10,CD-severity_level___2,0.0395
+11,SYMPT-chest_pain___1,0.0388
+12,HHX-Obesity,0.0313
+13,CD-difficulty_with_concentrat___4,0.0144
+14,CD-memory_problems___4,0.0107
