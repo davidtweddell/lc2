@@ -1,0 +1,21 @@
+1,True,age
+1,True,VAX-vaccinated
+1,True,CD-hospitalized
+5,False,MED-Analgesics
+3,False,MED-Gastrointestinal-agents
+1,True,MED-Respiratory-tract-agents
+1,True,SYMPT-chest_pain___1
+1,True,SYMPT-confusion_altered_mental_s___1
+5,False,SYMPT-cough___1
+5,False,SYMPT-extremity_weakness_or_numb___1
+2,False,SYMPT-fatigue___1
+1,True,SYMPT-fever_38_0oc___1
+1,True,SYMPT-headache___1
+1,True,SYMPT-muscle_aches_myalgia___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-skin_rash___1
+1,True,SYMPT-sore_throat___1
+1,True,HHX-Arterial Hypertension
+1,True,CD-medication_received___1
+1,True,CD-type_of_care___2
+1,True,SUBST-3

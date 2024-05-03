@@ -1,0 +1,21 @@
+1,True,age
+1,True,CD-hospitalized
+1,True,CD-required_oxygen
+1,True,MED-Antivirals
+1,True,MED-Cardiovascular-agents
+1,True,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+1,True,SYMPT-fever_38_0oc___1
+1,True,SYMPT-headache___1
+1,True,SYMPT-muscle_aches_myalgia___1
+5,False,SYMPT-nausea_vomiting___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+3,False,SYMPT-weight_loss___1
+1,True,HHX-Arterial Hypertension
+2,False,HHX-Dementia
+1,True,HHX-Diabetes
+1,True,HHX-Obesity
+1,True,HHX-Psychiatric disease
+1,True,CD-adjunctive___1
+4,False,CD-ventilatory_support_type___1

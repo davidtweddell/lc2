@@ -1,0 +1,8 @@
+1,True,age
+5,False,MED-Respiratory-tract-agents
+2,False,SYMPT-chest_pain___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+3,False,HHX-Obesity
+1,True,CD-type_of_care___2
+4,False,CD-severity_level___0
+1,True,CD-severity_level___1
