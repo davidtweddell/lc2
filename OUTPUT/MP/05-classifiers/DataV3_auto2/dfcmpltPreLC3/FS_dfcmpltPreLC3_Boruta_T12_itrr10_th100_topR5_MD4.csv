@@ -1,0 +1,16 @@
+1,True,age
+2,False,VAX-vaccinated
+4,False,SYMPT-chest_pain___1
+3,False,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+2,False,SYMPT-fatigue___1
+2,False,SYMPT-headache___1
+2,False,SYMPT-runny_nose_rhinorrhea___1
+2,False,SYMPT-shortness_of_breath_dyspne___1
+2,False,SYMPT-sore_throat___1
+2,False,SYMPT-weight_loss___1
+2,False,HHX-OTHER-Sleep-disorder
+2,False,CD-adjunctive___1
+2,False,CD-medication_received___5
+2,False,CD-severity_level___0
+2,False,CD-severity_level___1

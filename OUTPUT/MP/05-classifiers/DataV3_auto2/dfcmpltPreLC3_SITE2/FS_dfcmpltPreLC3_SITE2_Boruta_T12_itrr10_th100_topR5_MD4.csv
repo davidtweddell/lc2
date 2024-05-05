@@ -1,0 +1,12 @@
+1,True,age
+2,False,SYMPT-chest_pain___1
+2,False,SYMPT-diarrhea___1
+3,False,SYMPT-extremity_weakness_or_numb___1
+5,False,SYMPT-joint_pain_arthralgia___1
+2,False,SYMPT-nausea_vomiting___1
+4,False,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+2,False,CD-difficulty_with_concentrat___4
+2,False,CD-memory_problems___4
+2,False,CD-severity_level___1
+2,False,CD-severity_level___3

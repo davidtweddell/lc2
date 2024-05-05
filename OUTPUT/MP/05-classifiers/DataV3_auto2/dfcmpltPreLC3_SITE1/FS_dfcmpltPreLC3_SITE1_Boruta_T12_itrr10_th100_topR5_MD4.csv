@@ -1,0 +1,15 @@
+2,False,age
+2,False,VAX-vaccinated
+5,False,CD-hospitalized
+4,False,MED-Gastrointestinal-agents
+2,False,MED-Respiratory-tract-agents
+3,False,SYMPT-chest_pain___1
+2,False,SYMPT-confusion_altered_mental_s___1
+2,False,SYMPT-fever_38_0oc___1
+2,False,SYMPT-headache___1
+2,False,SYMPT-muscle_aches_myalgia___1
+2,False,SYMPT-shortness_of_breath_dyspne___1
+2,False,SYMPT-skin_rash___1
+2,False,HHX-Arterial Hypertension
+3,False,CD-medication_received___1
+2,False,SUBST-3

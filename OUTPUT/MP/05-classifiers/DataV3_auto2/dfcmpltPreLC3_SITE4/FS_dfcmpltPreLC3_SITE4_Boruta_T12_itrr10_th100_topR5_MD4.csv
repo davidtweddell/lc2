@@ -1,0 +1,13 @@
+4,False,age
+1,True,CD-hospitalized
+2,False,CD-required_oxygen
+2,False,SYMPT-cough___1
+2,False,SYMPT-dizziness___1
+2,False,SYMPT-fever_38_0oc___1
+2,False,SYMPT-headache___1
+2,False,SYMPT-shortness_of_breath_dyspne___1
+2,False,HHX-Arterial Hypertension
+4,False,HHX-Dementia
+2,False,HHX-Diabetes
+3,False,HHX-Obesity
+1,True,CD-adjunctive___1
