@@ -1,0 +1,22 @@
+Rank,Feature,Importance
+1,CD-adjunctive___1,0.3207
+2,CD-required_oxygen,0.2395
+3,age,0.1613
+4,SYMPT-cough___1,0.1086
+5,SYMPT-shortness_of_breath_dyspne___1,0.0603
+6,SYMPT-dizziness___1,0.0355
+7,SYMPT-runny_nose_rhinorrhea___1,0.0214
+8,HHX-Obesity,0.014
+9,HHX-Psychiatric disease,0.0121
+10,SYMPT-weight_loss___1,0.007
+11,VAX-vaccinated,0.0056
+12,SYMPT-chest_pain___1,0.005
+13,SYMPT-headache___1,0.0044
+14,SYMPT-fatigue___1,0.0038
+15,SYMPT-extremity_weakness_or_numb___1,0.0008
+18,SYMPT-sore_throat___1,0.0
+18,HHX-OTHER-Sleep-disorder,0.0
+18,MED-Respiratory-tract-agents,0.0
+18,CD-medication_received___3,0.0
+18,CD-medication_received___5,0.0
+18,CD-respiratory-other-4,0.0

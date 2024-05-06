@@ -1,0 +1,22 @@
+Rank,Feature,Importance
+1,age,0.3979
+2,SYMPT-shortness_of_breath_dyspne___1,0.0935
+3,SYMPT-runny_nose_rhinorrhea___1,0.0714
+4,SYMPT-extremity_weakness_or_numb___1,0.0549
+5,SYMPT-fatigue___1,0.0546
+5,SYMPT-sore_throat___1,0.0546
+7,SYMPT-cough___1,0.0528
+8,SYMPT-dizziness___1,0.0494
+9,SYMPT-headache___1,0.0468
+10,SYMPT-chest_pain___1,0.039
+11,HHX-Obesity,0.0333
+12,HHX-Psychiatric disease,0.0277
+13,HHX-OTHER-Sleep-disorder,0.0076
+14,VAX-vaccinated,0.0055
+15,CD-respiratory-other-4,0.004
+16,CD-medication_received___5,0.0037
+17,CD-required_oxygen,0.0035
+19,SYMPT-weight_loss___1,0.0
+19,CD-adjunctive___1,0.0
+19,CD-medication_received___3,0.0
+19,MED-Respiratory-tract-agents,0.0

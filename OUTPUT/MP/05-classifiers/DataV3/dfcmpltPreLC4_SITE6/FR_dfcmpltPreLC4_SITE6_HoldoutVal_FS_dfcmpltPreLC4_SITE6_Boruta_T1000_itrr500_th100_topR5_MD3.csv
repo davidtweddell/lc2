@@ -1,0 +1,15 @@
+Rank,Feature,Importance
+1,age,0.4469
+2,SYMPT-shortness_of_breath_dyspne___1,0.1089
+3,SYMPT-nausea_vomiting___1,0.0595
+4,SYMPT-loss_of_taste_lost_of_smel___1,0.0545
+5,SYMPT-extremity_weakness_or_numb___1,0.0536
+6,SYMPT-muscle_aches_myalgia___1,0.0507
+7,MED-Respiratory-tract-agents,0.048
+8,SYMPT-diarrhea___1,0.0472
+9,SYMPT-chest_pain___1,0.0411
+10,HHX-Obesity,0.0314
+11,VAX-vaccinated,0.0257
+12,CD-difficulty_with_concentrat___4,0.0135
+13,CD-memory_problems___4,0.0097
+14,SUBST-3,0.0092

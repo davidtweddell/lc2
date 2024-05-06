@@ -1,0 +1,20 @@
+Rank,Feature,Importance
+1,CD-hospitalized,0.3709
+2,CD-adjunctive___1,0.1861
+3,CD-required_oxygen,0.1504
+4,SYMPT-cough___1,0.0583
+5,age,0.0414
+6,HHX-Arterial Hypertension,0.0379
+7,SYMPT-fever_38_0oc___1,0.0354
+8,HHX-Diabetes,0.0275
+9,SYMPT-shortness_of_breath_dyspne___1,0.0246
+10,MED-Cardiovascular-agents,0.0197
+11,SYMPT-dizziness___1,0.0122
+12,SYMPT-muscle_aches_myalgia___1,0.011
+13,HHX-Dementia,0.0105
+14,SYMPT-runny_nose_rhinorrhea___1,0.005
+15,SYMPT-weight_loss___1,0.0026
+16,MED-Antivirals,0.0024
+17,HHX-Psychiatric disease,0.002
+18,HHX-Obesity,0.0015
+19,SYMPT-headache___1,0.0007

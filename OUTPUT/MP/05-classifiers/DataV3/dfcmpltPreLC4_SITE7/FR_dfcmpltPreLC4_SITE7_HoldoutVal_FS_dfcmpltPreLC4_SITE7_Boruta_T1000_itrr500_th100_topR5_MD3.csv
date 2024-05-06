@@ -1,0 +1,19 @@
+Rank,Feature,Importance
+1,age,0.271
+2,CD-type_of_care___2,0.1928
+3,SYMPT-shortness_of_breath_dyspne___1,0.0749
+4,SYMPT-runny_nose_rhinorrhea___1,0.0655
+5,CD-hospitalized,0.0505
+6,SYMPT-extremity_weakness_or_numb___1,0.0458
+7,SYMPT-loss_of_taste_lost_of_smel___1,0.0409
+8,SYMPT-sore_throat___1,0.038
+9,HHX-Psychiatric disease,0.0361
+10,SYMPT-chest_pain___1,0.0342
+11,HHX-Diabetes,0.0265
+12,HHX-Obesity,0.0258
+13,VAX-vaccinated,0.0256
+14,MED-Respiratory-tract-agents,0.0254
+15,CD-required_oxygen,0.0188
+16,CD-difficulty_with_concentrat___4,0.0109
+17,SUBST-3,0.0094
+18,HHX-OTHER-Sleep-disorder,0.0079

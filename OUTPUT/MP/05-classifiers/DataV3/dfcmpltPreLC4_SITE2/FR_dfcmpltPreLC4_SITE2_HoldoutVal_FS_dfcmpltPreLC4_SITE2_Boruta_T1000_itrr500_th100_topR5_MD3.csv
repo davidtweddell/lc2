@@ -1,0 +1,11 @@
+Rank,Feature,Importance
+1,age,0.5913
+2,SYMPT-shortness_of_breath_dyspne___1,0.0936
+3,SYMPT-nausea_vomiting___1,0.0609
+4,SYMPT-loss_of_taste_lost_of_smel___1,0.0569
+5,SYMPT-extremity_weakness_or_numb___1,0.0499
+6,SYMPT-diarrhea___1,0.0498
+7,SYMPT-chest_pain___1,0.0406
+8,HHX-Obesity,0.0328
+9,CD-difficulty_with_concentrat___4,0.014
+10,CD-memory_problems___4,0.0103

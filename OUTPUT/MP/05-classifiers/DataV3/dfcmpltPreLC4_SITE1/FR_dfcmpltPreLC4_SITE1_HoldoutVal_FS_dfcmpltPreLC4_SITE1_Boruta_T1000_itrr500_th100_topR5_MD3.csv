@@ -1,0 +1,16 @@
+Rank,Feature,Importance
+1,age,0.195
+2,VAX-vaccinated,0.193
+3,MED-Respiratory-tract-agents,0.0843
+4,SYMPT-shortness_of_breath_dyspne___1,0.0752
+5,SYMPT-headache___1,0.0535
+6,CD-hospitalized,0.0513
+7,SYMPT-muscle_aches_myalgia___1,0.05
+8,SYMPT-fever_38_0oc___1,0.0456
+9,SUBST-3,0.0433
+10,SYMPT-sore_throat___1,0.0413
+11,CD-medication_received___1,0.0412
+12,CD-type_of_care___2,0.04
+13,SYMPT-chest_pain___1,0.0388
+14,SYMPT-confusion_altered_mental_s___1,0.0277
+15,SYMPT-skin_rash___1,0.0198
