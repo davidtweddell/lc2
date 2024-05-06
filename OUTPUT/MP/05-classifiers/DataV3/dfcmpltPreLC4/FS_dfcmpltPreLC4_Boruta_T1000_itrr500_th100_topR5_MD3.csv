@@ -1,0 +1,26 @@
+1,True,age
+1,True,VAX-vaccinated
+1,True,CD-required_oxygen
+5,False,MED-Cardiovascular-agents
+1,True,MED-Respiratory-tract-agents
+1,True,SYMPT-chest_pain___1
+1,True,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+1,True,SYMPT-extremity_weakness_or_numb___1
+1,True,SYMPT-fatigue___1
+2,False,SYMPT-fever_38_0oc___1
+1,True,SYMPT-headache___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+1,True,SYMPT-weight_loss___1
+1,True,HHX-Obesity
+1,True,HHX-Psychiatric disease
+1,True,HHX-OTHER-Sleep-disorder
+1,True,CD-adjunctive___1
+5,False,CD-difficulty_with_concentrat___4
+1,True,CD-medication_received___3
+3,False,CD-medication_received___4
+1,True,CD-medication_received___5
+1,True,CD-respiratory-other-4
+4,False,SUBST-4

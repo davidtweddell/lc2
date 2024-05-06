@@ -1,0 +1,15 @@
+1,True,age
+1,True,VAX-vaccinated
+4,False,MED-Respiratory-tract-agents
+2,False,SYMPT-chest_pain___1
+1,True,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+1,True,SYMPT-fatigue___1
+3,False,SYMPT-headache___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+1,True,SYMPT-weight_loss___1
+5,False,HHX-OTHER-Sleep-disorder
+1,True,CD-adjunctive___1
+1,True,CD-medication_received___5

@@ -1,0 +1,13 @@
+1,True,age
+1,True,CD-hospitalized
+1,True,MED-Respiratory-tract-agents
+1,True,SYMPT-chest_pain___1
+5,False,SYMPT-extremity_weakness_or_numb___1
+3,False,SYMPT-loss_of_taste_lost_of_smel___1
+3,False,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+1,True,HHX-Obesity
+1,True,HHX-Psychiatric disease
+2,False,HHX-OTHER-Sleep-disorder
+1,True,CD-type_of_care___2
