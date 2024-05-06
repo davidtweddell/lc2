@@ -475,3 +475,97 @@ def __specificity_value(y_true, y_pred):
     except RuntimeWarning:
         print(f"{tn}-{fp}-{fn}-{tp}")
         return np.nan
+
+class scorers:
+        
+    def positive_predictive_value(
+        y_true, y_pred
+    ):  # NOTE: - this is the exaclty same results as "precision" in sklearn
+        # Calculate the confusion matrix
+        # print(y_true,y_pred)
+        tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
+
+        # Calculate PPV (Positive Predictive Value)
+        try:
+            # print(tn,fp,fn,tp)
+            if (
+                tp + fp == 0
+            ):  # NOTE - this is an edgecase -> based on https://stats.stackexchange.com/questions/1773/what-are-correct-values-for-precision-and-recall-in-edge-cases
+                ppv = 0.0
+            else:
+                ppv = tp / (tp + fp)
+            return ppv
+        except ZeroDivisionError:
+            return 0.0  # Return a predefined value when PPV is ill-defined
+        except RuntimeWarning as rw:
+            print(f"{tn}-{fp}-{fn}-{tp}")
+            return np.nan
+
+
+    def negative_predictive_value(y_true, y_pred):
+        from sklearn.metrics import confusion_matrix
+
+        # Calculate the confusion matrix
+        tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
+
+        # Calculate NPV (Negative Predictive Value)
+        try:
+            if (
+                tn + fn == 0
+            ):  # NOTE - this is an edgecase -> based on https://stats.stackexchange.com/questions/1773/what-are-correct-values-for-precision-and-recall-in-edge-cases
+                ppv = 0.0
+                npv = 0.0
+            else:
+                npv = tn / (tn + fn)
+            return npv
+        except ZeroDivisionError:
+            return 0.0  # Return a predefined value when NPV is ill-defined
+        except RuntimeWarning:
+            print(f"{tn}-{fp}-{fn}-{tp}")
+            return np.nan
+
+
+    def sensitivity_value(
+        y_true, y_pred
+    ):  # NOTE: - this is the exaclty same results as "recall" in sklearn
+        from sklearn.metrics import confusion_matrix
+
+        # Calculate the confusion matrix
+        tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
+
+        # Calculate Sensitivity == TPR (True Positive Rate) == Recall
+        try:
+            if (
+                tp + fn == 0
+            ):  # NOTE - this is an edgecase -> based on https://stats.stackexchange.com/questions/1773/what-are-correct-values-for-precision-and-recall-in-edge-cases
+                sens = 0.0
+            else:
+                sens = tp / (tp + fn)
+            return sens
+        except ZeroDivisionError:
+            return 0.0  # Return a predefined value when NPV is ill-defined
+        except RuntimeWarning:
+            print(f"{tn}-{fp}-{fn}-{tp}")
+            return np.nan
+
+
+    def specificity_value(y_true, y_pred):
+        from sklearn.metrics import confusion_matrix
+
+        # Calculate the confusion matrix
+        tn, fp, fn, tp = confusion_matrix(y_true, y_pred).ravel()
+
+        # Calculate Sepcificity == TNR (True Negative Rate)
+        try:
+            if (
+                tn + fp == 0
+            ):  # NOTE - this is an edgecase -> based on https://stats.stackexchange.com/questions/1773/what-are-correct-values-for-precision-and-recall-in-edge-cases
+                spec = 0.0
+            else:
+                spec = tn / (tn + fp)
+            return spec
+        except ZeroDivisionError:
+            return 0.0  # Return a predefined value when NPV is ill-defined
+        except RuntimeWarning:
+            print(f"{tn}-{fp}-{fn}-{tp}")
+            return np.nan
