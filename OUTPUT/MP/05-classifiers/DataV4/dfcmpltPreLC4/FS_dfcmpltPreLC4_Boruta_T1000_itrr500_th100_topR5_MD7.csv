@@ -1,0 +1,8 @@
+1,True,age
+1,True,SYMPT-dizziness___1
+5,False,SYMPT-fatigue___1
+5,False,SYMPT-headache___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+4,False,SYMPT-shortness_of_breath_dyspne___1
+2,False,SYMPT-sore_throat___1
+3,False,CD-adjunctive___1

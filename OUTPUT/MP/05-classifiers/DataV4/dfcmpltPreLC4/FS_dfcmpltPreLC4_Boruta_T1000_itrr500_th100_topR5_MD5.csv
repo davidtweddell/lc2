@@ -1,0 +1,17 @@
+1,True,age
+3,False,MED-Respiratory-tract-agents
+1,True,SYMPT-chest_pain___1
+1,True,SYMPT-cough___1
+1,True,SYMPT-dizziness___1
+4,False,SYMPT-extremity_weakness_or_numb___1
+1,True,SYMPT-fatigue___1
+4,False,SYMPT-fever_38_0oc___1
+1,True,SYMPT-headache___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+1,True,SYMPT-weight_loss___1
+1,True,HHX-Psychiatric disease
+1,True,CD-adjunctive___1
+2,False,CD-medication_received___5
+1,True,CD-type_of_care___2
