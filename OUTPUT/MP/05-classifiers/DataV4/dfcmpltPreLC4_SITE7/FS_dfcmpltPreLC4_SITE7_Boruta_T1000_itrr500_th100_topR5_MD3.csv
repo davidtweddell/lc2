@@ -1,0 +1,24 @@
+1,True,age
+1,True,CD-hospitalized
+1,True,CD-required_oxygen
+5,False,MED-Analgesics
+1,True,MED-Respiratory-tract-agents
+1,True,SYMPT-chest_pain___1
+3,False,SYMPT-diarrhea___1
+1,True,SYMPT-extremity_weakness_or_numb___1
+1,True,SYMPT-loss_of_taste_lost_of_smel___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+1,True,SYMPT-sore_throat___1
+2,False,SYMPT-wheezing_or_stridor___1
+1,True,HHX-Arterial Hypertension
+1,True,HHX-Asthma
+3,False,HHX-COPD (emphysema
+1,True,HHX-Diabetes
+1,True,HHX-Obesity
+1,True,HHX-Psychiatric disease
+1,True,HHX-OTHER-Sleep-disorder
+1,True,CD-medication_received___1
+5,False,CD-memory_problems___4
+1,True,CD-type_of_care___1
+1,True,CD-type_of_care___2
