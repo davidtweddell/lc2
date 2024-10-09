@@ -1,0 +1,14 @@
+1,True,age
+1,True,SYMPT-chest_pain___1
+3,False,SYMPT-cough___1
+1,True,SYMPT-diarrhea___1
+1,True,SYMPT-extremity_weakness_or_numb___1
+5,False,SYMPT-fever_38_0oc___1
+1,True,SYMPT-joint_pain_arthralgia___1
+1,True,SYMPT-loss_of_taste_lost_of_smel___1
+1,True,SYMPT-runny_nose_rhinorrhea___1
+1,True,SYMPT-shortness_of_breath_dyspne___1
+2,False,HHX-Asthma
+5,False,HHX-COPD (emphysema
+1,True,HHX-Obesity
+5,False,CD-memory_problems___4

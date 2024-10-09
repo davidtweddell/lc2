@@ -1,0 +1,8 @@
+1,True,age
+2,False,CD-hospitalized
+1,True,MED-Respiratory-tract-agents
+3,False,SYMPT-chest_pain___1
+5,False,SYMPT-fatigue___1
+4,False,SYMPT-loss_of_appetite___1
+1,True,SYMPT-sore_throat___1
+1,True,SUBST-3
