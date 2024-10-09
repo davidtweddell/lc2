@@ -1,0 +1,22 @@
+Rank,Feature,Importance
+1,CD-adjunctive___1,0.3885
+2,SYMPT-fever_38_0oc___1,0.1041
+3,age,0.0854
+4,SYMPT-shortness_of_breath_dyspne___1,0.0808
+5,HHX-Arterial Hypertension,0.0804
+6,SYMPT-cough___1,0.0553
+7,SYMPT-runny_nose_rhinorrhea___1,0.0495
+8,SYMPT-dizziness___1,0.0396
+9,HHX-Psychiatric disease,0.0364
+10,SYMPT-muscle_aches_myalgia___1,0.0256
+11,SYMPT-headache___1,0.0212
+12,SYMPT-extremity_weakness_or_numb___1,0.0102
+13,SYMPT-fatigue___1,0.0092
+14,SYMPT-chest_pain___1,0.0065
+15,SYMPT-weight_loss___1,0.006
+16,SUBST-1,0.0012
+19,MED-Respiratory-tract-agents,0.0
+19,SYMPT-sore_throat___1,0.0
+19,HHX-OTHER-Sleep-disorder,0.0
+19,CD-medication_received___5,0.0
+19,CD-type_of_care___2,0.0
