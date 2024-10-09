@@ -32,7 +32,9 @@ from tqdm import tqdm
 from boruta import BorutaPy
 import csv
 import cupy as cp
-cudaAvailable = 'cuda' if cp.cuda.is_available() else 'cpu'
+# cudaAvailable = 'cuda' if cp.cuda.is_available() else 'cpu'
+cudaAvailable = 'cpu' # NOTE -- This is due to a error: BrokenProcessPool: A task has failed to un-serialize. Please ensure that the arguments of the function are all picklable.
+
 
 
 def getXY(df, target_col="LC_STATUS"):
