@@ -1,0 +1,20 @@
+Rank,Feature,Importance
+1,age,0.2612
+2,CD-type_of_care___2,0.1578
+3,SYMPT-shortness_of_breath_dyspne___1,0.1034
+4,SYMPT-loss_of_taste_lost_of_smel___1,0.0612
+5,SYMPT-chest_pain___1,0.0499
+6,SYMPT-runny_nose_rhinorrhea___1,0.0493
+7,SYMPT-sore_throat___1,0.0405
+8,HHX-Obesity,0.0398
+9,SYMPT-extremity_weakness_or_numb___1,0.0367
+10,HHX-Psychiatric disease,0.0348
+11,HHX-Arterial Hypertension,0.0315
+12,HHX-Asthma,0.0266
+13,HHX-Diabetes,0.0258
+14,MED-Respiratory-tract-agents,0.0254
+15,HHX-OTHER-Sleep-disorder,0.0232
+16,CD-hospitalized,0.0213
+17,CD-type_of_care___1,0.0071
+18,CD-medication_received___1,0.0031
+19,CD-required_oxygen,0.0013

@@ -1,0 +1,17 @@
+Rank,Feature,Importance
+1,age,0.1979
+2,SYMPT-fatigue___1,0.1855
+3,SYMPT-cough___1,0.1267
+4,CD-type_of_care___2,0.0994
+5,SYMPT-loss_of_taste_lost_of_smel___1,0.0593
+6,SYMPT-runny_nose_rhinorrhea___1,0.0556
+7,SYMPT-loss_of_appetite___1,0.0496
+8,SYMPT-headache___1,0.038
+9,SYMPT-joint_pain_arthralgia___1,0.0374
+10,SYMPT-fever_38_0oc___1,0.0368
+11,SYMPT-dizziness___1,0.0315
+12,SYMPT-sore_throat___1,0.0283
+13,SYMPT-muscle_aches_myalgia___1,0.0282
+14,HHX-Psychiatric disease,0.0193
+15,CD-hospitalized,0.0063
+16,CD-required_oxygen,0.0001

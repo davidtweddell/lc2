@@ -1,0 +1,5 @@
+Rank,Feature,Importance
+1,age,0.5163
+2,SYMPT-sore_throat___1,0.2315
+3,SUBST-3,0.1687
+4,MED-Respiratory-tract-agents,0.0835
